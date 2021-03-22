@@ -14,4 +14,7 @@
    * Item 3a
    * Item 3b
 
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
+
  
