@@ -17,4 +17,7 @@
 ![GitHub Logo](/images/logo.png)
 Format: ![Alt Text](url)
 
+http://github.com - automatic!
+[Github](http://github.com)
+
  
